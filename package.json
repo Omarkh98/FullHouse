@@ -12,7 +12,15 @@
     "devDependencies": {
         "axios": "^0.25",
         "laravel-mix": "^6.0.6",
-        "lodash": "^4.17.19",
+        "lodash": "^4.17.21",
         "postcss": "^8.1.14"
+    },
+    "dependencies": {
+        "buefy": "^0.9.21",
+        "bulma": "^0.9.4",
+        "cross-env": "^7.0.3",
+        "font-awesome": "^4.7.0",
+        "jquery": "^3.6.0",
+        "vue": "^3.2.37"
     }
 }
